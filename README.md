@@ -49,6 +49,10 @@
 
 ### Python
 
+* [점프 투 파이썬](https://wikidocs.net/book/1)
+* [Python Tutorial](https://docs.python.org/ko/3/tutorial/index.html)
+* [전문가를 위한 파이썬](http://www.yes24.com/Product/Goods/30231768)
+
 ### C
 
 * [C Programming : A Modern Approach](http://www.yes24.com/Product/Goods/573769)
@@ -64,12 +68,21 @@
 
 ### Java
 
-* 
+* [Java의 정석](http://www.yes24.com/Product/Goods/24259565)
 * [Effective Java](http://www.yes24.com/Product/Goods/65551284)
 
 ### Javascript
 
+* [생활코딩! HTML+CSS+자바스크립트](http://www.yes24.com/Product/Goods/67883315)
+* [인사이드 자바스크립트](http://www.yes24.com/Product/Goods/11781589)
+* [자바스크립트는 왜 그 모양일까?](http://www.yes24.com/Product/Goods/90283410)
+* [자바스크립트는 모든 곳에 존재한다](http://www.yes24.com/Product/Goods/97125368)
+
 ### C#
+
+* [이것이 C#이다](http://www.yes24.com/Product/Goods/96674785)
+* [C# 6.0 완벽 가이드](http://www.yes24.com/Product/Goods/33085047)
+* [이펙티브 C#](http://www.yes24.com/Product/Goods/55864866)
 
 ### etc.
 
