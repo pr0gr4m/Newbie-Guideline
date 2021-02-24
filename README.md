@@ -116,12 +116,22 @@
 * 프로그래머가 몰랐던 멀티코어 CPU 이야기
 * 프로세서를 지탱하는 기술
 
+### System Programming
+
+* [UNIX 고급 프로그래밍](http://www.yes24.com/Product/Goods/14528020)
+* [리눅스 API의 모든 것](http://www.yes24.com/Product/Goods/7225056)
+* [Advanced! 리눅스 시스템 네트워크 프로그래밍](http://www.yes24.com/Product/Goods/26902320)
+
 ### Operating System
 
 * Operating System Concepts
 * [64비트 멀티코어 OS 원리와 구조](http://www.yes24.com/Product/Goods/65061299)
 
 ### Network
+
+* [TCP/IP가 보이는 그림책](http://www.yes24.com/Product/Goods/73020774)
+* [후니의 쉽게 쓴 시스코 네트워킹](http://www.yes24.com/Product/Goods/89520426)
+* [TCP/IP Illustrated](http://www.yes24.com/Product/Goods/4739649)
 
 ### Database
 
