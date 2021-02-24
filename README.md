@@ -51,9 +51,21 @@
 
 ### C
 
+* [C Programming : A Modern Approach](http://www.yes24.com/Product/Goods/573769)
+* [The C Programming Language](http://www.yes24.com/Product/Goods/5928879)
+
 ### C++
 
+* [C++ Primer](http://www.yes24.com/Product/Goods/6285665)
+* [Programming : Principles and Practice Using C++](http://www.yes24.com/Product/Goods/23207535)
+* [Effective C++](http://www.yes24.com/Product/Goods/17525589)
+* [Effective Modern C++](http://www.yes24.com/Product/Goods/20288684)
+* [The C++ Programming Language](http://www.yes24.com/Product/Goods/23441719)
+
 ### Java
+
+* 
+* [Effective Java](http://www.yes24.com/Product/Goods/65551284)
 
 ### Javascript
 
@@ -65,8 +77,25 @@
 
 ### Algorithm
 
-* Coding Interview (Coding Test)
-* Competition
+#### Academic
+
+* [Foundations of Algorithms](http://www.yes24.com/Product/Goods/11999564)
+* [Introduction to Algorithms](http://www.yes24.com/Product/Goods/13776831)
+* [The Art of Computer Programming](http://www.yes24.com/Product/Goods/13776831)
+* [Project Euler](https://euler.synap.co.kr/)
+
+#### Coding Interview (Coding Test)
+
+* [파이썬 알고리즘 인터뷰](http://www.yes24.com/Product/Goods/91084402)
+* [프로그래머스](https://programmers.co.kr/)
+* [LeetCode](https://leetcode.com/)
+
+#### Competition
+
+* [알고리즘 문제 해결 전략 세트](http://www.yes24.com/Product/Goods/8006522)
+* [백준 온라인 저지](https://www.acmicpc.net/)
+* [CodeForces](https://codeforces.com/)
+* [알고스팟](https://www.algospot.com/)
 
 ### Computer Architecture
 
