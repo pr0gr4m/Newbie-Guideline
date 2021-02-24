@@ -135,4 +135,6 @@
 
 ### Database
 
+* [파워 오브 데이터베이스](http://www.yes24.com/Product/Goods/69775589)
+
 ## Projects
