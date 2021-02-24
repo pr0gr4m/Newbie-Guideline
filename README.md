@@ -112,7 +112,14 @@
 
 ### Computer Architecture
 
+* Computer Organization and Design
+* 프로그래머가 몰랐던 멀티코어 CPU 이야기
+* 프로세서를 지탱하는 기술
+
 ### Operating System
+
+* Operating System Concepts
+* [64비트 멀티코어 OS 원리와 구조](http://www.yes24.com/Product/Goods/65061299)
 
 ### Network
 
