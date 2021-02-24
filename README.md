@@ -61,12 +61,19 @@
 
 ### etc.
 
-## Algorithm
+## Fundamental Technique
 
-### Coding Interview (Coding Test)
+### Algorithm
 
-### Competition
+* Coding Interview (Coding Test)
+* Competition
 
-## Technique
+### Computer Architecture
+
+### Operating System
+
+### Network
+
+### Database
 
 ## Projects
