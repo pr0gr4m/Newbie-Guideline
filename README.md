@@ -146,3 +146,10 @@ Python은 굉장히 범용적이며 언어에 내장되어 있는 기능이 다�
 * [파워 오브 데이터베이스](http://www.yes24.com/Product/Goods/69775589)
 
 ## Projects
+
+### 대외 활동
+
+* [차세대 보안리더 양성 프로그램](https://www.kitribob.kr)
+* [SW 마에스트로](https://www.swmaestro.org)
+* [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
+* [Github Campus Experts](https://education.github.com/experts)
