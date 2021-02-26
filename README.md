@@ -161,6 +161,10 @@ C언어는 태생이 UNIX라는 운영체제를 만들기 위하여 태어난 �
 * [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
 * [Github Campus Experts](https://education.github.com/experts)
 
+### 해커톤
+
+### 대회
+
 ## Comments
 
 ### Community
