@@ -152,9 +152,23 @@ C언어는 태생이 UNIX라는 운영체제를 만들기 위하여 태어난 �
 
 ## Projects
 
+### 개인 프로젝트
+
 ### 대외 활동
 
 * [차세대 보안리더 양성 프로그램](https://www.kitribob.kr)
 * [SW 마에스트로](https://www.swmaestro.org)
 * [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
 * [Github Campus Experts](https://education.github.com/experts)
+
+## Comments
+
+### Community
+
+#### 개발 관련 커뮤니티 리스트
+
+#### 커뮤니티 이용법
+
+* 질문하는 방법
+
+### Q&A
