@@ -182,7 +182,18 @@ Java는 대표적인 객체 지향 프로그래밍 언어입니다. JVM이라는
 
 ### System Engineering
 
+* [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](http://www.yes24.com/Product/Goods/68799454)
+* [따라하며 배우는 AWS 네트워크 입문](http://www.yes24.com/Product/Goods/93887402)
+* [DevOps와 SE를 위한 리눅스 커널 이야기](http://www.yes24.com/Product/Goods/44376723)
+* [카프카, 데이터 플랫폼의 최강자](http://www.yes24.com/Product/Goods/59789254)
+* [엔터프라이즈 데이터 플랫폼 구축](http://www.yes24.com/Product/Goods/90634328)
+
 ### Software Engineering
+
+* [리팩토링](http://www.yes24.com/Product/Goods/89649360)
+* [클린 코드 + 클린 아키텍처](http://www.yes24.com/Product/Goods/77988880)
+* [실용주의 프로그래머](http://www.yes24.com/Product/Goods/12501565)
+* [조엘 온 소프트웨어](http://www.yes24.com/Product/Goods/1469763)
 
 ### Security
 
