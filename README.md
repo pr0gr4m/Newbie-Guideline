@@ -105,6 +105,10 @@ Java는 대표적인 객체 지향 프로그래밍 언어입니다. JVM이라는
 
 ### etc.
 
+* Rust
+* Swift
+* Kotlin
+
 ## Fundamental Technique
 
 ### Algorithm
