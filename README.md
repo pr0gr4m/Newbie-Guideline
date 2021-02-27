@@ -1,6 +1,6 @@
 # Newbie-Guideline
 
-해당 문서는 프로그래밍/개발에 입문하려는 모든 뉴비들(컴퓨터학과 신입생, 비전공 개발 입문자 등)을 위한 지침서입니다.
+해당 문서는 프로그래밍/개발에 입문하려는 뉴비분들(컴퓨터학과 신입생, 비전공 개발 입문자 등)과 새로운 공부 리소스를 찾으려 하는 모든 분들을 위한 지침서입니다.
 
 ## Prerequisite
 
@@ -139,6 +139,8 @@ C언어는 태생이 UNIX라는 운영체제를 만들기 위하여 태어난 �
 * [리눅스 API의 모든 것](http://www.yes24.com/Product/Goods/7225056)
 * [Advanced! 리눅스 시스템 네트워크 프로그래밍](http://www.yes24.com/Product/Goods/26902320)
 
+### Design Pattern
+
 ### Operating System
 
 * Operating System Concepts
@@ -150,9 +152,33 @@ C언어는 태생이 UNIX라는 운영체제를 만들기 위하여 태어난 �
 * [후니의 쉽게 쓴 시스코 네트워킹](http://www.yes24.com/Product/Goods/89520426)
 * [TCP/IP Illustrated](http://www.yes24.com/Product/Goods/4739649)
 
+### Web
+
 ### Database
 
 * [파워 오브 데이터베이스](http://www.yes24.com/Product/Goods/69775589)
+
+## Professional Technique
+
+### Android Application
+
+### iOS Application
+
+### Game
+
+### Embedded System
+
+### System Engineering
+
+### Software Engineering
+
+### Security
+
+## Study
+
+### Bottom Up
+
+### Top Down
 
 ## Projects
 
