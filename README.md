@@ -159,6 +159,9 @@ Java는 대표적인 객체 지향 프로그래밍 언어입니다. JVM이라는
 
 ### Web
 
+* [HTTP 완벽 가이드](http://www.yes24.com/Product/Goods/15381085)
+* [모던 웹 애플리케이션 개발](http://www.yes24.com/Product/Goods/86038744)
+
 ### Database
 
 * [파워 오브 데이터베이스](http://www.yes24.com/Product/Goods/69775589)
