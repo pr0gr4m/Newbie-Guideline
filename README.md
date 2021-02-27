@@ -143,6 +143,9 @@ Java는 대표적인 객체 지향 프로그래밍 언어입니다. JVM이라는
 
 ### Design Pattern
 
+* [Head First Design Patterns](http://www.yes24.com/Product/Goods/1778966)
+* [GoF의 디자인 패턴](http://www.yes24.com/Product/Goods/17525598)
+
 ### Operating System
 
 * Operating System Concepts
