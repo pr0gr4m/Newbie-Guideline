@@ -182,11 +182,24 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 
 ### Android Application
 
+* [Android Developers Guide](https://developer.android.com/guide)
+* [프로페셔널 안드로이드](http://www.yes24.com/Product/Goods/80771938)
+
 ### iOS Application
+
+* [Do it! 스위프트로 아이폰 앱 만들기 입문](http://www.yes24.com/Product/Goods/96686142)
+* [Apple Developer](https://developer.apple.com/develop/)
 
 ### Game
 
 ### Embedded System
+
+* [사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리 파이](http://www.yes24.com/Product/Goods/89306782)
+* [Raspberry Pi User Guide](http://www.yes24.com/Product/Goods/57750662)
+* [임베디드 OS 개발 프로젝트](http://www.yes24.com/Product/Goods/84909414)
+* [임베디드 RTOS 입문서 세트](http://www.yes24.com/Product/Goods/2887923)
+* [임베디드 엔지니어 교과서](http://www.yes24.com/Product/Goods/91226909)
+* [Yocto 프로젝트를 활용한 임베디드 리눅스 개발](http://www.yes24.com/Product/Goods/63826178)
 
 ### System Engineering
 
