@@ -114,7 +114,12 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 
 ## Fundamental Technique
 
+기반 기술들을 설명합니다.
+
 ### Algorithm
+
+알고리즘은 어떠한 문제를 해결하기 위한 절차의 표현으로 Computer Science의 큰 기초가 되는 과목 중 하나입니다. 효율적인 프로그래밍의 근간이 되어주고, AI와 같은 다양한 분야의 근본적인 기술입니다. 특히나 MS와 Google로 시작한 Coding Interview(코딩 테스트)가 국내에도 크게 유행하고 있기에 입사를 위해서 신경써 공부해야 할 과목입니다.  
+그런데 학술적인 연구를 위한 알고리즘, 실무에서 사용하는 알고리즘, PS(Problem Solving) 대회를 위한 알고리즘, 코딩 테스트를 위한 알고리즘 등 분야별로 다루는 내용이 크게 달라지기 때문에 목적에 맞춰서 효율적인 공부가 필요합니다. 실무에서 사용하는 알고리즘은 어떤 회사에서 어떤 제품을 개발하는지에 따라 천차만별이기에 제외하고 아래에는 학술, 코딩 테스트, 대회를 위한 공부 리소스들을 설명하겠습니다. 사실 코딩 테스트와 대회를 위한 알고리즘은 공부하는 내용이 굉장히 유사하지만 대회를 위한 공부가 훨씬 넓은 범위를 깊게 파고들어야 한다는 차이가 있습니다.
 
 #### Academic
 
@@ -125,13 +130,13 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 
 #### Coding Interview (Coding Test)
 
-* [파이썬 알고리즘 인터뷰](http://www.yes24.com/Product/Goods/91084402)
+* [파이썬 알고리즘 인터뷰](http://www.yes24.com/Product/Goods/91084402) : 코딩 테스트를 위한 알고리즘 공부 입문으로 굉장히 좋은 서적입니다. 비슷한 성격의 서적으로는 [이것이 취업을 위한 코딩 테스트다 with 파이썬](http://www.yes24.com/Product/Goods/91433923)이 있습니다.
 * [프로그래머스](https://programmers.co.kr/)
 * [LeetCode](https://leetcode.com/)
 
 #### Competition
 
-* [알고리즘 문제 해결 전략 세트](http://www.yes24.com/Product/Goods/8006522)
+* [알고리즘 문제 해결 전략 세트](http://www.yes24.com/Product/Goods/8006522) : 알고리즘 대회 필수서입니다. 
 * [백준 온라인 저지](https://www.acmicpc.net/)
 * [CodeForces](https://codeforces.com/)
 * [알고스팟](https://www.algospot.com/)
