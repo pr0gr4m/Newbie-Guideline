@@ -109,8 +109,8 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 ### etc.
 
 * Rust
-* Swift
-* Kotlin
+* Swift: ios에서 앱 개발을 하기 위해 쓰는 언어입니다.
+* Kotlin: jetbrains 에서 개발한 객체지향 언어로 안드로이드 앱을 만들때 쓸수 있고 java에 비해 null에 대해 깐깐해서 null pointer exception을 방지하기 좋다는 장점이 있습니다.
 
 ## Fundamental Technique
 
