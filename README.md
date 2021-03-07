@@ -151,9 +151,9 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 
 ### System Programming
 
-* [UNIX 고급 프로그래밍](http://www.yes24.com/Product/Goods/14528020)
-* [리눅스 API의 모든 것](http://www.yes24.com/Product/Goods/7225056)
-* [Advanced! 리눅스 시스템 네트워크 프로그래밍](http://www.yes24.com/Product/Goods/26902320)
+* [UNIX 고급 프로그래밍](http://www.yes24.com/Product/Goods/14528020) : APUE라고 불리는 이 책은 시스템 프로그래밍 전통의 바이블입니다. 전반적인 UNIX-like 환경에서의 시스템 콜 프로그래밍과 주의사항 등을 설명합니다. 시스템 개발을 공부하려는 분들에게 사실상 필독서입니다.
+* [리눅스 API의 모든 것](http://www.yes24.com/Product/Goods/7225056) : 원제 The Linux Programming Interface인 이 책은 위의 APUE와 비슷하지만 좀 더 리눅스 환경에 집중되어있고, 내용이 신식입니다. 비록 고 Stevens의 APUE가 공인력으로는 가장 알아주지만, 해당 서적도 리눅스 매뉴얼 페이지를 작성한 Kerrisk의 저서로 그에 못지 않은 편입니다. APUE도 그렇지만 몇 구현 연습문제 난이도가 꽤 상당합니다. 리눅스 환경에서의 시스템 프로그래밍을 공부하고 싶은데 APUE가 싫다면 해당 서적을 추천합니다.
+* [Advanced! 리눅스 시스템 네트워크 프로그래밍](http://www.yes24.com/Product/Goods/26902320) : 굉장히 좋은 시스템 프로그래밍 실무 지침서로 저자분의 노하우가 잘 들어가 있습니다. 개념서로 활용해도 좋지만, 위의 APUE나 TLPI 서적으로 개념들을 익히고 해당 서적으로 이러한 개념들을 어떻게 실무 개발에 적용할 지 익히는게 가장 좋을거 같습니다. 개인적으로, APUE와 해당 서적을 한번씩 정독한 후 공부한 내용들을 활용하여 다중 클라이언트에 동시 서비스되는 웹 프록시 서버를 하나 만들 수 있다면 시스템 프로그래밍에 어느 정도 익숙해졌다고 생각해도 될 것 같습니다.
 
 ### Design Pattern
 
