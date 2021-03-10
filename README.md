@@ -256,6 +256,7 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 
 ### System Engineering
 
+* [아마존 웹 서비스 AWS Discovery Book](http://www.yes24.com/Product/Goods/69304366)
 * [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](http://www.yes24.com/Product/Goods/68799454)
 * [따라하며 배우는 AWS 네트워크 입문](http://www.yes24.com/Product/Goods/93887402)
 * [DevOps와 SE를 위한 리눅스 커널 이야기](http://www.yes24.com/Product/Goods/44376723)
