@@ -344,6 +344,13 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 
 ### Roadmap
 
+로드맵은 직접 작성하기에는 너무 케이스가 많고 양이 많다보니 이미 시니어 개발자분들이 만들어주신 로드맵 중 개인적으로 추천하는 로드맵의 링크들을 걸어두겠습니다. 만약 추후에 시간이 된다면 시스템 개발 분야 로드맵은 직접 작성도 해보도록 하겠습니다.
+
+* [웹 개발자 로드맵](https://github.com/devJang/developer-roadmap)
+* [안드로이드 앱 개발자 로드맵](https://github.com/mobile-roadmap/android-developer-roadmap)
+* [iOS 앱 개발자 로드맵](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
+* [게임 개발자 로드맵](https://github.com/utilForever/game-developer-roadmap)
+
 ## Projects
 
 ### 개인 프로젝트
