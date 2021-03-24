@@ -393,16 +393,30 @@ HOW TO 챕터에서는 이러한 주의점들을 짚어보며 자신에게 맞�
 * [SW 마에스트로](https://www.swmaestro.org) : 창의도전형 SW인재 육성으로 SW산업의 미래를 선도하는 정부지원 사업입니다. 예비 연수과정, 창의도전형 과정을 거쳐 우수한 연수생(상위 10%)에게는 글로벌 SW역량 교육 프로그램을 지원합니다. 연수생 지원 사항으로 IT기기 구입비 지원(1회), 교육과정 중 (6개월) 매월 100만원 지급, 멘토링, 프로젝트 개발비 등이 있습니다.
 * [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/) : Microsoft에서 운영하는 학생 기술 리더 네트워크 프로그램입니다. 전 세계 학생들과 함께 온라인으로 코딩 기술을 학습하는 데 도움을 주고, 가상 해커톤을 주최하여 실제 문제를 해결하고, 디지털 커뮤니티를 구축합니다. 전 세계에서 16세 이상, 대학 등의 교육기관에서 공부하는 학생을 대상으로 하며 매년 3월, 9월 경에 모집합니다. 활동 수준에 따라 알파, 베타, 골드의 3가지 단계로 구성되어 있으며 알파 이상의 스튜던트 앰베서더에게는 150 USD 월간 Azure 크레딧, Visual Studio Enterprise 구독권, MTC 인증 시험 바우처, studentambassadors.com 도메인, Camtasia 등의 소프트웨어 지원 등의 혜택이 있습니다. 베타 이상의 앰베서더에겐 행사에 대한 지원, swag 물품 지급, 멘토십, 해외 써밋 이용이 가능합니다. 골드 앰베서더의 경우, 컨퍼런트 발표 및 참여가 가능하고 파일럿 프로그램 참여, Microsoft의 MVP 멘토쉽과 함께 MVP 프로그램에 초대될 수 있습니다.  
 * [Github Campus Experts](https://education.github.com/experts) : 깃헙에서 운영하는 캠퍼스 기술 커뮤니티 리더 프로그램입니다. 기술을 배우고 경험을 공유하고 프로젝트를 함께 구축하는 활동을 합니다. 2월과 9월 경에 모집하며 지원 제출 후 합격하면 5분 분량의 지원 동기, 커뮤니티의 비전과 목표에 대한 영상을 제출해야 합니다. 온오프라인 컨퍼런스와 모임 및 해커톤을 선도하며 깃헙에서 연설 스피킹, 테크니컬 라이팅, 커뮤니티 리더십, 소프트웨어 개발 등의 교육과 지원을 받게 됩니다.
+* [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 ### 해커톤
 
 ### 대회
+
+* [ACM ICPC](http://icpckorea.org/)
+* [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
+* [Facebook HackerCup](https://www.facebook.com/codingcompetitions/hacker-cup/)
+* Kakao Code Festival
+* [SCPC](https://research.samsung.com/scpc)
 
 ## Comments
 
 ### Community
 
 #### 개발 관련 커뮤니티 리스트
+
+* [Stack Overflow](https://stackoverflow.com/)
+* [Quora](https://www.quora.com/)
+* [Github Community](https://github.community/)
+* [KLDP](https://kldp.org/)
+* [OKKY](https://okky.kr/)
+* [생활코딩](https://www.facebook.com/groups/codingeverybody/)
 
 #### 커뮤니티 이용법
 
