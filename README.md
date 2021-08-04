@@ -215,7 +215,7 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 
 ### etc.
 
-* Go : Google에서 만든 프로그래밍 언어로, 언어 설계자인 Thompson, Pike, Griesemer가 말하길 C++의 복잡성이 싫어 해당 언어를 만들게 되었다고 합니다. Garbage Collection 기능이 있고 병행성을 지원합니다. Go 언어를 사용하는 프로젝트로는 도커와 쿠버네티스, Cloudflare, MongoDB, Netflix, Twitch 등이 있습니다. 클라우드 계열에서 많이 사용하는 언어입니다. 공부할만한 서적으로는 [Head First Go](http://www.yes24.com/Product/Goods/89342507)와 [Go in Action](http://www.yes24.com/Product/Goods/28186053)이 있습니다.
+* Go : Google에서 만든 프로그래밍 언어로, 언어 설계자인 Thompson, Pike, Griesemer가 말하길 C++의 복잡성이 싫어 해당 언어를 만들게 되었다고 합니다. Garbage Collection 기능이 있고 병행성을 지원합니다. Go 언어를 사용하는 프로젝트로는 도커와 쿠버네티스, Cloudflare, MongoDB, Netflix, Twitch 등이 있습니다. 클라우드 계열에서 많이 사용하는 언어입니다. 공부할만한 서적으로는 [Head First Go](http://www.yes24.com/Product/Goods/89342507)와 [Go in Action](http://www.yes24.com/Product/Goods/28186053), [Tucker의 Go 언어 프로그래밍](http://www.yes24.com/Product/Goods/99108736)이 있습니다.
 * Rust : Mozilla에서 만든 프로그래밍 언어로, 뛰어난 언어 완성도를 자랑합니다. (컴파일러 전공하는 지인들이 굉장히 극찬하는 언어입니다.) Performance, Reliability, Productivity를 슬로건으로 내세우고 객체 지향 프로그래밍, 병렬 프로그래밍, 함수형 프로그래밍, 명령형(Imperative) 프로그래밍 패러다임을 지원합니다. 특이한 점으로는 변수의 Lifetime과 Ownership을 컴파일 타임에 추적하여 생성과 소멸 시기를 결정합니다. 즉, Java나 C#같이 Garbage Collection으로 인한 런타임 코스트 없이 안전하게 메모리를 관리합니다. 대신 언어 난이도 자체가 상당한 편이므로 해당 언어를 사용하여 개발을 진행하기 전에는 단단한 각오가 필요할 것입니다. Rust를 사용하고 있는 프로젝트에는 디스코드, 파이어폭스 등이 있습니다. 공부할 서적으로는 [러스트 프로그래밍 공식 가이드](http://www.yes24.com/Product/Goods/83075894)가 있습니다.
 * Swift : Apple사의 플랫폼(macOS, iOS, watchOS, tvOS)을 위한 프로그래밍 언어입니다.
 * Kotlin : JetBrains 에서 개발한 JVM 기반의 언어입니다. 2017년에 안드로이드 공식 언어로 채택되었습니다. 장황한 문법을 지닌 Java에 비해 비교적 간결한 문법을 제공합니다. 
