@@ -222,7 +222,7 @@ import Foundation
 print("Hello world!")
 ```
 
-Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적 접근으로 개발된 범용 프로그래밍 언어로, 기존 Apple 기기에서 동작하는 프로그램을 개발하기 위해 사용되던 Objective-C 라는 언어를 대체하기 위해 개발되어 2014년에 공개된 Apple의 프로그래밍 언어입니다. Apple 기기의 운영체제(iOS, MacOS, WatchOs, tvOS) 위에서 작동하는 응용 프로그램을 개발하기 위해 필수적으로 배워야 하는 언어이기도 합니다. 범용 프로그래밍 언어인 만큼, Apple 기기를 위한 응용 프로그램 뿐 만 아니라 서버 개발에 사용되기도 합니다. Apple 기기 응용 프로그램 개발을 위해선 Apple 컴퓨터 (MacBook, iMac, Mac mini ...) 가 필요하지만, 다른 용도로 사용한다면 Windows나 Linux 운영 체제에서도 사용할 수 있습니다.
+Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적 접근으로 개발된 범용 프로그래밍 언어로, 기존 Apple 기기에서 동작하는 프로그램을 개발하기 위해 사용되던 Objective-C 라는 언어를 대체하기 위해 2014년에 공개된 Apple의 프로그래밍 언어입니다. Apple 기기의 운영체제(iOS, MacOS, WatchOs, tvOS) 위에서 작동하는 응용 프로그램을 개발하기 위해 배우게 되는 언어이기도 합니다. 범용 프로그래밍 언어인 만큼, Apple 기기를 위한 응용 프로그램 뿐 만 아니라 서버 개발에 사용되기도 합니다. Apple 기기 응용 프로그램 개발을 위해선 Apple 컴퓨터 (MacBook, iMac, Mac mini ...) 가 필요하지만, 다른 용도로 사용한다면 Windows나 Linux 운영 체제에서도 사용할 수 있습니다. 공식 문서인 [Swift.org](Swift.org)에서 변경 사항아니 자세한 내용을 확인 할 수 있습니다.
 
 * [꼼꼼한 재은 씨의 스위프트 시리즈](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186710234&orderClick=JAj) : 국내에서 가장 유명한 Swift 서적 중 하나입니다. Swift 지식이 없는 상태에서 편하게 읽기 좋은 서적입니다. 최신 버전인 Swift 5.0을 기반으로 하고 있습니다.
 * [스위프트 프로그래밍](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162242223&orderClick=JAj) : 위의 *꼼꼼한 재은 씨의 스위프트 시리즈*와 함께 가장 인기가 많은 국내 Swift 서적으로, iOS 개발 강의로 유명한 야곰님의 도서입니다. *꼼꼼한 재은씨*가 편하게 읽기 좋은 책이라면, *스위프트 프로그래밍*은 전공서적 같은 느낌을 주는 책입니다. 최신 버전인 Swift 5.0을 기반으로 하고 있습니다. 
