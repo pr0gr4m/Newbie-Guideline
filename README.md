@@ -12,6 +12,7 @@
   * [Java](#java)
   * [Javascript](#javascript)
   * [C#](#c-2)
+  * [Swift](#swift)
   * [etc.](#etc)
 - [Fundamental Technique](#fundamental-technique)
   * [Algorithm](#algorithm)
@@ -213,11 +214,24 @@ C#은 마이크로소프트에서 개발한 객체지향 언어입니다. C 계�
 * [C# 6.0 완벽 가이드](http://www.yes24.com/Product/Goods/33085047) : C# 언어를 정말 상세하게 설명한 서적으로 언어의 세부적인 기능을 자세하게 공부할 수 있습니다. 6.0 버전까지만 커버하지만, 해당 내용으로도 언어의 깊은 내용을 알 수 있습니다. 언어의 기능을 상세하게 공부하고 싶거나 레퍼런스로 사용하려는 분들에게 추천합니다.
 * [이펙티브 C#](http://www.yes24.com/Product/Goods/55864866) : 이번에도 유명한 Effective 시리즈 중 하나로 C#을 더욱 효율적으로 쓸 수 있게 해주는 전문서입니다. 위의 완벽 가이드 책은 Optional 하지만, 해당 책은 C#으로 개발을 하려는 분들에게 필수입니다. C#을 이미 어느 정도 공부한 적이 있는 분들이 이 언어로 일을 하기 위해 언어 숙련도를 높이려고 할 때 추천합니다.
 
+### Swift
+
+```swift
+import Foundation
+
+print("Hello world!")
+```
+
+Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적 접근으로 개발된 범용 프로그래밍 언어로, 기존 Apple 기기에서 동작하는 프로그램을 개발하기 위해 사용되던 Objective-C 라는 언어를 대체하기 위해 개발되어 2014년에 공개된 Apple의 프로그래밍 언어입니다. Apple 기기의 운영체제(iOS, MacOS, WatchOs, tvOS) 위에서 작동하는 응용 프로그램을 개발하기 위해 필수적으로 배워야 하는 언어이기도 합니다. 범용 프로그래밍 언어인 만큼, Apple 기기를 위한 응용 프로그램 뿐 만 아니라 서버 개발에 사용되기도 합니다. Apple 기기 응용 프로그램 개발을 위해선 Apple 컴퓨터 (MacBook, iMac, Mac mini ...) 가 필요하지만, 다른 용도로 사용한다면 Windows나 Linux 운영 체제에서도 사용할 수 있습니다.
+
+* [꼼꼼한 재은 씨의 스위프트 시리즈](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186710234&orderClick=JAj) : 국내에서 가장 유명한 Swift 서적 중 하나입니다. Swift 지식이 없는 상태에서 편하게 읽기 좋은 서적입니다. 최신 버전인 Swift 5.0을 기반으로 하고 있습니다.
+* [스위프트 프로그래밍](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162242223&orderClick=JAj) : 위의 *꼼꼼한 재은 씨의 스위프트 시리즈*와 함께 가장 인기가 많은 국내 Swift 서적으로, iOS 개발 강의로 유명한 야곰님의 도서입니다. *꼼꼼한 재은씨*가 편하게 읽기 좋은 책이라면, *스위프트 프로그래밍*은 전공서적 같은 느낌을 주는 책입니다. 최신 버전인 Swift 5.0을 기반으로 하고 있습니다. 
+
+
 ### etc.
 
 * Go : Google에서 만든 프로그래밍 언어로, 언어 설계자인 Thompson, Pike, Griesemer가 말하길 C++의 복잡성이 싫어 해당 언어를 만들게 되었다고 합니다. Garbage Collection 기능이 있고 병행성을 지원합니다. Go 언어를 사용하는 프로젝트로는 도커와 쿠버네티스, Cloudflare, MongoDB, Netflix, Twitch 등이 있습니다. 클라우드 계열에서 많이 사용하는 언어입니다. 공부할만한 서적으로는 [Head First Go](http://www.yes24.com/Product/Goods/89342507)와 [Go in Action](http://www.yes24.com/Product/Goods/28186053), [Tucker의 Go 언어 프로그래밍](http://www.yes24.com/Product/Goods/99108736)이 있습니다.
 * Rust : Mozilla에서 만든 프로그래밍 언어로, 뛰어난 언어 완성도를 자랑합니다. (컴파일러 전공하는 지인들이 굉장히 극찬하는 언어입니다.) Performance, Reliability, Productivity를 슬로건으로 내세우고 객체 지향 프로그래밍, 병렬 프로그래밍, 함수형 프로그래밍, 명령형(Imperative) 프로그래밍 패러다임을 지원합니다. 특이한 점으로는 변수의 Lifetime과 Ownership을 컴파일 타임에 추적하여 생성과 소멸 시기를 결정합니다. 즉, Java나 C#같이 Garbage Collection으로 인한 런타임 코스트 없이 안전하게 메모리를 관리합니다. 대신 언어 난이도 자체가 상당한 편이므로 해당 언어를 사용하여 개발을 진행하기 전에는 단단한 각오가 필요할 것입니다. Rust를 사용하고 있는 프로젝트에는 디스코드, 파이어폭스 등이 있습니다. 공부할 서적으로는 [러스트 프로그래밍 공식 가이드](http://www.yes24.com/Product/Goods/83075894)가 있습니다.
-* Swift : Apple사의 플랫폼(macOS, iOS, watchOS, tvOS)을 위한 프로그래밍 언어입니다.
 * Kotlin : JetBrains 에서 개발한 JVM 기반의 언어입니다. 2017년에 안드로이드 공식 언어로 채택되었습니다. 장황한 문법을 지닌 Java에 비해 비교적 간결한 문법을 제공합니다. 
 
 ## Fundamental Technique
