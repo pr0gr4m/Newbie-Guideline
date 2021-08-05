@@ -317,8 +317,10 @@ Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적
 ### iOS Application
 
 안타깝게도 필자가 iOS쪽은 개발 경험이 없어 시니어 개발자 분들의 PR을 기다리겠습니다.
-* [Do it! 스위프트로 아이폰 앱 만들기 입문](http://www.yes24.com/Product/Goods/96686142)
-* [Apple Developer](https://developer.apple.com/develop/)
+* [Do it! 스위프트로 아이폰 앱 만들기 입문](http://www.yes24.com/Product/Goods/96686142) : Swift 문법과, iOS 개발 부분을 모두 다루고 있기 때문에 iOS 개발을 처음 입문하기에 부담이 없는 책입니다.
+* [Apple Developer](https://developer.apple.com/develop/) : 애플 공식 레퍼런스 사이트 입니다
+* [Cs193p-Developing App for iOS](https://cs193p.sites.stanford.edu) : 스탠포트 CS전공 수업으로 공개되는 유명한 iOS 개발 강의 입니다. 2021과정 기준으로 `SwiftUI`, `MVVM 패턴` 등을 다룹니다. edwith에 iOS11 기준으로 강의한 이전 버전의 [[스탠포드]Swift를 활용한 iOS11 앱 개발](https://www.edwith.org/swiftapp#), 인프런에 iOS9 기준으로 강의한 [Stanford iOS 한글자막 강의](https://www.inflearn.com/course/stanford-ios-한글자막-강의)가 있기 때문에 영어 강의에 어려움이 있을 경우 번역본을 들으시면 좋습니다. 번역본을 들으신다면, 비교적 최신 강의인 edwith의 강의를 수강하시는걸 추천합니다.
+* [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) : Udemy에서 유명한 iOS 개발 입문 강의 입니다. 문법 설명부터 하지 않고, 여러 앱 실습을 해 나가면서 필요할 때 마다 이론적인 내용이나 문법을 강의하기 때문에 전공 지식이나 코딩 경험이 없어도 듣기 좋습니다. 기본적으로 UIKit(스토리보드 이용), MVC, JSON API, Firebase 등을 이용하여 학습하고, 기본 강의 이외에도 추가적으록 Terminal 사용법, SwiftUI, 앱 디자인, Core Data/Userdefaults, CoreML, ARKit 등등 전체적으로 알찬 강의입니다 
 
 ### Game
 
