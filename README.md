@@ -325,7 +325,7 @@ Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적
 ### Game
 
 안타깝게도 필자가 게임 개발 경력이 없기에 시니어 개발자 분들의 PR을 기다리겠습니다.
-* [Real-Time Rendering](http://http://www.yes24.com/Product/Goods/408701) : 실시간 렌더링 분야에서 가장 유명한 책입니다. 이 책을 통해 렌더링 기본을 읽히시고 쉐이더나 언리얼 실무서를 보시면 더욱 이해가 빠를 것입니다.
+* [Real-Time Rendering](http://www.yes24.com/Product/Goods/408701) : 실시간 렌더링 분야에서 가장 유명한 책입니다. 이 책을 통해 렌더링 기본을 읽히시고 쉐이더나 언리얼 실무서를 보시면 더욱 이해가 빠를 것입니다.
 
 ### Embedded System
 
