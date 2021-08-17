@@ -226,6 +226,7 @@ Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적
 
 * [꼼꼼한 재은 씨의 스위프트 시리즈](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186710234&orderClick=JAj) : 국내에서 가장 유명한 Swift 서적 중 하나입니다. Swift 지식이 없는 상태에서 편하게 읽기 좋은 서적입니다. 최신 버전인 Swift 5.0을 기반으로 하고 있습니다.
 * [스위프트 프로그래밍](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162242223&orderClick=JAj) : 위의 *꼼꼼한 재은 씨의 스위프트 시리즈*와 함께 가장 인기가 많은 국내 Swift 서적으로, iOS 개발 강의로 유명한 야곰님의 도서입니다. *꼼꼼한 재은씨*가 편하게 읽기 좋은 책이라면, *스위프트 프로그래밍*은 전공서적 같은 느낌을 주는 책입니다. 최신 버전인 Swift 5.0을 기반으로 하고 있습니다. 
+* [Swift 공식 문서 한글 번역](https://jusung.gitbook.io/the-swift-language-guide/) : 위의 문단에 있는 Swift 공식 문서를 한글로 번역한 페이지로 Swift 기본 문법을 공부할 때 다른 강의를 보면서 이해가 안가는 부분을 공식 문서 번역본을 참고한다면 좀 더 이해가 쉽게 될 수 있을 것입니다.
 
 
 ### etc.
@@ -321,7 +322,7 @@ Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적
 * [Cs193p-Developing App for iOS](https://cs193p.sites.stanford.edu) : 스탠포트 CS전공 수업으로 공개되는 유명한 iOS 개발 강의 입니다. 2021과정 기준으로 `SwiftUI`, `MVVM 패턴` 등을 다룹니다. edwith에 iOS11 기준으로 강의한 이전 버전의 [[스탠포드]Swift를 활용한 iOS11 앱 개발](https://www.edwith.org/swiftapp#), 인프런에 iOS9 기준으로 강의한 [Stanford iOS 한글자막 강의](https://www.inflearn.com/course/stanford-ios-한글자막-강의)가 있기 때문에 영어 강의에 어려움이 있을 경우 번역본을 들으시면 좋습니다. 번역본을 들으신다면, 비교적 최신 강의인 edwith의 강의를 수강하시는걸 추천합니다.
 * [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) : Udemy에서 유명한 iOS 개발 입문 강의 입니다. 문법 설명부터 하지 않고, 여러 앱 실습을 해 나가면서 필요할 때 마다 이론적인 내용이나 문법을 강의하기 때문에 전공 지식이나 코딩 경험이 없어도 듣기 좋습니다. 기본적으로 UIKit(스토리보드 이용), MVC, JSON API, Firebase 등을 이용하여 학습하고, 기본 강의 이외에도 추가적으록 Terminal 사용법, SwiftUI, 앱 디자인, Core Data/Userdefaults, CoreML, ARKit 등등 전체적으로 알찬 강의입니다 
 * [iOS 앱 프로그래밍](https://www.boostcourse.org/mo326) : [스위프트 프로그래밍](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162242223&orderClick=JAj)의 저자 야곰님의 무료강의 입니다. 문법 강의는 포함하고 있지 않습니다. 강의에서 애플 공식 문서에서 중요한 부분을 알려주고, 직접 읽어 보도록 권장하고 있습니다. 5개의 챕터로 나뉘어 있으며, 각 챕터 마지막에 과제와 같은 프로젝트가 주어져 총 5개의 연습 앱을 만들어 볼 수 있는 강의입니다. 프로젝트를 제출하면 코드 리뷰를 해주는 것이 장점이고, 강의 자체는 무료이지만 코드리뷰를 받을 시 약 2만원의 비용을 지불해야 합니다. UIKit, MVC, Singleton, Gesture-Recognizer, UITableView, Segue, JSON, GCD 등을 간단히 다룹니다.
-
+* [스윗한 SwiftUI](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237335978) : 2019년 애플에서 발표한 선언형 프로그래밍인 SwiftUI 개발에 대한 서적으로 Swift 문법을 어느정도 숙지했고, UIKit 개발도 다룰 수 있다면 공부하기 좋은 내용의 서적입니다. 설명, 예제와 코드가 잘 분배되어 있어 참고하면 좋습니다.
 
 
 ### Game
