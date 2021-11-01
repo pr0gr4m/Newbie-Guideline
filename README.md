@@ -227,7 +227,7 @@ Swift는 안전성, 성능, 소프트웨어 디자인 패턴에 대한 현대적
 
 * [꼼꼼한 재은 씨의 스위프트 시리즈](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186710234&orderClick=JAj) : 국내에서 가장 유명한 Swift 서적 중 하나입니다. Swift 지식이 없는 상태에서 편하게 읽기 좋은 서적입니다. 최신 버전인 Swift 5.0을 기반으로 하고 있습니다.
 * [스위프트 프로그래밍](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162242223&orderClick=JAj) : 위의 *꼼꼼한 재은 씨의 스위프트 시리즈*와 함께 가장 인기가 많은 국내 Swift 서적으로, iOS 개발 강의로 유명한 야곰님의 도서입니다. *꼼꼼한 재은씨*가 편하게 읽기 좋은 책이라면, *스위프트 프로그래밍*은 전공서적 같은 느낌을 주는 책입니다. 최신 버전인 Swift 5.0을 기반으로 하고 있습니다. 
-* [Swift 공식 문서 한글 번역](https://jusung.gitbook.io/the-swift-language-guide/) : 위의 문단에 있는 Swift 공식 문서를 한글로 번역한 페이지로 Swift 기본 문법을 공부할 때 다른 강의를 보면서 이해가 안가는 부분을 공식 문서 번역본을 참고한다면 좀 더 이해가 쉽게 될 수 있을 것입니다.
+* [Swift 공식 문서 한글 번역](https://bbiguduk.gitbook.io/swift) : 위의 문단에 있는 Swift 공식 문서를 한글로 번역한 페이지로 Swift 기본 문법을 공부할 때 다른 강의를 보면서 이해가 안가는 부분을 공식 문서 번역본을 참고한다면 좀 더 이해가 쉽게 될 수 있을 것입니다.
 
 
 ### etc.
