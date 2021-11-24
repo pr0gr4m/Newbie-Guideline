@@ -156,6 +156,7 @@ auto main() -> int {
 * [Effective Modern C++](http://www.yes24.com/Product/Goods/20288684) : Modern C++을 사용할 분들이 필수적으로 봐야 하는 필독서입니다. C++로 일을 하거나 C++ 언어를 잘 쓰고 싶다는 분들은 예외 없이 봐야 할 책입니다.
 * [The C++ Programming Language](http://www.yes24.com/Product/Goods/23441719) : C++ 창시자인 비야네옹이 쓴 책으로, 레퍼런스 서적입니다. 사실 C++는 아래 사이트에 레퍼런스가 잘 되어있기 때문에 해당 책은 좀 Optional하긴 하지만, C++ 언어에 어느 정도 익숙해 졌을 때 이 언어의 철학을 느끼며 내용을 정리하려는 분들이 공부하기 좋은 책입니다.
 * [cppreference](https://en.cppreference.com/w/) : C++ 레퍼런스 사이트입니다. 예를 들어 C++의 std::vector에 무슨 기능이 있고 어떻게 사용해야 하는지 찾아야 한다면 다음 [링크](https://en.cppreference.com/w/cpp/container/vector)를 참조하면 됩니다.
+* [이것이 C++이다](http://www.yes24.com/Product/Goods/23840775) : 프로그래밍을 C 언어로 시작하고, 그 다음 단계로 객체지향 프로그래밍을 배우시는 분들에게 추천하는 책입니다. C 언어를 배우고 객체지향을 배우기 위해 Java 또는 Python을 바로 배우시는 분들이 많지만, C 언어를 배우고 난 뒤 접하는 새로운 언어의 특성을 또 배우느라 이질감이 들 수 있습니다. 책에 서두에서도 이 점을 언급하고, 저자가 C 언어에서 C++ 언어로 확장되는 개념을 정확히 짚어주기 때문에 특히 2학년을 앞둔 1학년에게 강력히 추천드립니다. 저자가 강의를 하시던 분이었기 때문에 양질의 [유튜브 강의](https://youtube.com/playlist?list=PLXvgR_grOs1DFOWF65X0Zqnd_264x41u-)와 함게 공부할 수 있고, 절차지향에서 객체지향 개념을 습득할 때 자연스럽게 이해할 수 있습니다. 2016년에 출판 된 책이지만, C++17에서 삭제된 auto_ptr 내용 외에 공부하는데 지장이 없습니다.
 * C++로 만든 프로그램으로는 [구글 크롬](https://chromium.googlesource.com/chromium/src/)을 포함한 수많은 구글 어플리케이션, [비트코인](https://github.com/bitcoin/bitcoin), 리그 오브 레전드, [QT](https://github.com/qt), [KDE](https://github.com/KDE), IE/Office/그림판 등 마이크로소프트 어플리케이션 등이 있습니다.
 
 ### Java
