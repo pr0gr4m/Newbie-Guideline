@@ -118,8 +118,35 @@
         * 상속, 합성, 동적 바인딩, 다형성이 무엇인지 알고 그 특징들에 대해 이해하고 있는지
     * Functional
         * 함수형 프로그래밍이 무엇인지 이해하며, 이를 응용하여 원하는 기능을 작성할 수 있는지
-        * Functional Form, Lambda Expression, Bound Variable에 대해 이해하고 있는지
+        * Functional Form, Lambda Expression, Bound Variable와 같은 요소들에 대해 이해하고 있는지
 * Compiler
+    * Lexical and Automata
+        * 어휘 분석기의 역할과 토큰 스트림에 대해 알고 있는지
+        * NFA와 DFA가 무엇인지 알고, NFA를 DFA로 변환할 수 있는지
+    * Syntax and Parse Tree
+        * CFG가 무엇인지 알고, 신택스를 분석하여 Parse Tree를 구성할 수 있는지
+        * Top Down Parsing에서의 FIRST와 FOLLOW가 무엇인지 알고, LL(1) 문법을 기반으로 Predictive Parsing을 하여 입력 토큰 스트림에 대한 Action Table을 만들 수 있는지
+        * LL(1) 문법의 한계를 알고, Bottom Up Parsing의 SLR, LALR, CLR 파싱의 특징에 대해 이해하고 있는지
+        * 파싱 과정에서의 Ambiguity나 Reduce Conflict에 대해 이해하고 있는지
+    * Translation and SDD
+        * Syntax Directed Definition가 무엇인지 알고, Dependency Graph의 순서를 평가할 수 있는지
+        * 신택스 규칙과 시맨틱 규칙을 기반으로 입력 토큰 스트림을 변환할 수 있는지
+        * S-Attributed Definition과 L-Attributed Definition의 특징에 대해 이해하고 있는지
+    * Semantic and Data Type
+        * 시맨틱 규칙이 무엇인지 이해하고 있는지
+        * 데이터의 타입과 선언에 대해 이해하고, 타입 체킹 규칙에 대해 이해하고 있는지
+        * 타입 변환과 타입 추론에 대해 이해하고 있는지
+    * Code Generation
+        * 중간 코드 생성기와 타겟 코드 생성기의 역할에 대해 알고 있는지
+        * 중간 코드 생성의 Three-address code 구현 방법들에 대해 알고, 흐름 제어 구문의 변환 방법에 대해 이해하고 있는지
+        * 타겟 코드 생성 시 명령어 선택, 레지스터 할당, 평가 순서에 대해 이해하고 있는지
+    * Runtime Environment
+        * 실행 환경에서의 메모리 구조에 대해 이해하고 있는지
+        * 가비지 콜렉션이 무엇인지 알고 Trace-Based 콜렉션에 대해 이해하고 있는지
+    * Optimization
+        * 중간 코드 최적화와 최적화된 타겟 코드 생성에 대해 이해하고 있는지
+        * 데이터 플로우 분석을 기반으로 한 상수 전파, 중복 제거, 루프 최적화 등을 이해할 수 있는지
+        * 명령어 수준 병렬성이나 데이터의 지역성을 이해하고 이를 기반으로한 최적화를 이해할 수 있는지
 * Software Engineering
 * Network
 * Database
