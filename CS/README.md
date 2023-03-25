@@ -60,6 +60,37 @@
         * IO 스케줄링에 대해 이해하고 있는지
         * IO를 처리하기 위하여 인터럽트, 시스템 콜, 파일 시스템의 동작 방식을 이해하고 있는지
 * Computer Architecture
+    * ISA
+        * 아키텍처마다 서로 다른 명령어 집합 구조를 사용함을 이해하는지
+        * CISC와 RISC의 차이점에 대해 이해하며 아키텍처마다 어떤 방식을 사용하는지 알고 있는지
+        * 산술 명령, 논리 연산 명령, 데이터 전송 명령, 실행 제어 명령 등 기본적인 명령어 종류들을 알고 있으며 명령어들이 어떠한 기능을 하는지 알고 있는지
+    * CPU Architecture
+        * 노이만 아키텍처와 하버드 아키텍처에 대해 이해하며, 이들의 현대식 절충 아키텍처에 대해 이해하고 있는지
+        * ALU, Instruction Fetch Unit, Instruction Decoder, Instruction Queue, Reservation Station, Reorder Buffer, Memory Order Buffer, Register, Instruction Cache, Data Cache, TLB, Bus와 같은 마이크로 아키텍처 구성 요소들이 무엇인지 알고 이들이 어떻게 상호작용 하는지 이해하고 있는지
+    * Pipeline and Datapath
+        * 명령어 파이프라인에 대해 이해하고, 데이터 경로를 설계할 수 있는지
+        * 파이프라인 깊이에 따른 장단점에 대해 이해하고, 상황에 따른 파이프라인 효율을 이해하고 있는지
+        * 브랜치 예측 기법에 대해 이해하고 있는지
+    * Memory Hierarchy
+        * 레지스터, 캐시, 메인 메모리, 외부 디스크로 구성되는 메모리 계층 구조의 특징에 대해 이해하고 있는지
+        * 레지스터의 종류와 역할에 대해 이해하고 있는지
+        * 캐시의 역할과 레벨에 대해 알고, 지역성에 대해 이해하고 있는지
+        * 메인 메모리의 역할과 특징에 대해 알고 있는지
+        * 외부 디스크의 역할과 동작 방식에 대해 알고 있는지
+    * Parallelism and Hazard
+        * ILP와 Structural Hazard, Data Hazard, Control Hazard가 무엇인지 이해하고 이들을 극복하기 위한 방법을 이해하고 있는지
+        * TLP와 SMP 및 캐시 일관성 프로토콜에 대해 이해하고 있는지
+        * DLP와 SISD, MISD, SIMD, MIMD가 무엇인지 이해하고 있는지
+        * 명령어 비순차 실행, 슈퍼 스케일러 파이프라인, 동시 멀티스레딩(하이퍼스레딩)에 대해 이해하고 있는지
+    * Multi Processor
+        * 싱글 코어 프로세서의 한계와 멀티 코어 프로세서 및 멀티 프로세서에 대해 이해하고 있는지
+        * 멀티 코어 혹은 멀티 프로세서 환경에서의 병렬 프로그래밍 시 유의점에 대해 이해하고 있는지
+        * SMP와 MPP의 특징과 차이점에 대해 이해하고 있는지
+        * UMA와 NUMA의 특징과 차이점에 대해 이해하고 있는지
+    * GPU Architecture
+        * GPU의 연산 방식을 이해하여 GPU가 어째서 DLP가 있는 연산에 유리한지 이해하는지
+        * GPU가 CPU와 비교하여 거대한 레지스터 파일과 높은 메모리 대역폭이 필요한 이유를 이해하는지
+        * GPGPU 프로그래밍 시 병목 지점을 판단할 수 있는지
 * Programming Language
 * Compiler
 * Software Engineering
