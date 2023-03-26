@@ -203,3 +203,28 @@
         * 버스, 스타, 링, 트리, 메쉬와 같은 네트워크 토폴로지 구성에 대해 이해하고 있는지
         * 상황에 맞게 ```ip```, ```ping```, ```traceroute```, ```netstat```, ```dig```, ```arp```와 같은 기본적인 네트워크 유틸리티 커맨드를 적절히 활용하여 문제를 식별하고 해결할 수 있는지
 * Database
+    * SQL
+        * SQL 쿼리로 원하는 DDL과 DML 문을 작성할 수 있는지
+        * Inner Join, Outer Join, Cross Join, Self Join의 차이에 대해 이해하고 있는지
+        * 트랜잭션에 대해 이해하여 커밋/롤백 시 동작 방식을 알고 있는지
+    * DBMS
+        * MySQL, MariaDB, Oracle과 같은 기본적인 RDBMS를 하나 이상 운용할 수 있는지
+        * 사용중인 RDBMS가 지원하는 타입, 함수, 제약 사항 등에 대해 이해하고 있는지
+        * 레플리케이션과 샤딩에 대해 이해하고 있는지
+    * ER Model
+        * 다양한 엔터티, 관계, 속성과 제약 사항을 ER 다이어 그램으로 표현할 수 있는지
+        * DR 설계 시 고려해야할 사안들에 대해 이해하고 있는지
+    * Normalization
+        * 정규화의 필요성과 장단점에 대해 이해하고 있는지
+        * 정규화의 기본적인 규칙과 함수적 종속성 및 다치 종속성에 대해 이해하고 있는지
+        * BCNF, 3NF, 4NF에 대해 이해하고 중복이 있는 테이블을 각 방식으로 정규화를 수행할 수 있는지
+    * Processing and Cost
+        * DBMS의 일반적인 쿼리 프로세싱 과정에 대해 이해하고 있는지
+        * 디스크 접근 시간을 중심으로 Nested Loop Join, Indexed Nested Loop Join, Merge Join, Hash Join 연산들의 소요 시간을 평가할 수 있는지
+    * Optimization
+        * DBMS의 옵티마이저와 실행 계획에 대해 이해하고 있는지
+        * 인덱스의 사용 이유와 B-Tree, B*Tree, B+Tree를 이용한 인덱스 자료구조의 특징에 대해 이해하고 있는지
+        * 상황에 맞게 SQL을 튜닝하여 응답 시간을 개선할 수 있는지
+    * Application and ORM
+        * SQL Mapper와 ORM의 특징과 차이점에 대해 이해하고 있는지
+        * 어플리케이션에서 ORM의 동작 방식과 사용 시 주의해야 할 점에 대해 이해하고 있는지
